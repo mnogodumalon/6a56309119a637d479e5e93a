@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "hallo_welt_eintrag",
+      "app_id": "6a5630785191ed8631f8582b",
+      "path": "/rest/apps/6a5630785191ed8631f8582b/records",
+      "allowed_fields": [
+        "nummer",
+        "titel",
+        "beschreibung"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Hallo Welt Eintrag — Formular"
+    }
+  ]
+}
